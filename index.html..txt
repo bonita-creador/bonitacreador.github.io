@@ -1,0 +1,94 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olga - Terapias Holísticas, Yoga y Vitrales</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #343a40;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+        }
+        .services {
+            display: flex;
+            justify-content: space-around;
+        }
+        .service {
+            width: 30%;
+            padding: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Olga</h1>
+    <p>Terapias Holísticas, Clases de Yoga y Vitrales</p>
+</header>
+
+<nav>
+    <a href="#about">Sobre Mí</a>
+    <a href="#holistic">Terapias Holísticas</a>
+    <a href="#yoga">Clases de Yoga</a>
+    <a href="#stained-glass">Vitrales</a>
+    <a href="#portfolio">Galería</a>
+    <a href="#testimonials">Testimonios</a>
+    <a href="#contact">Contacto</a>
+</nav>
+
+<section id="about">
+    <h2>Sobre Mí</h2>
+    <p>Aquí puedes escribir sobre ti, tus experiencias y tu enfoque en terapias holísticas, clases de yoga y vitrales.</p>
+</section>
+
+<section id="holistic">
+    <h2>Terapias Holísticas</h2>
+    <p>Descripción de tus servicios de terapias holísticas.</p>
+</section>
+
+<section id="yoga">
+    <h2>Clases de Yoga</h2>
+    <p>Descripción de tus clases de yoga.</p>
+</section>
+
+<section id="stained-glass">
+    <h2>Vitrales</h2>
+    <p>Descripción de tus trabajos en vitrales.</p>
+</section>
+
+<section id="portfolio">
+    <h2>Galería</h2>
+    <p>Aquí puedes mostrar imágenes de tus vitrales y clases de yoga.</p>
+</section>
+
+<section id="testimonials">
+    <h2>Testimonios</h2>
+    <p>Aquí puedes incluir testimonios de tus clientes.</p>
+</section>
+
+<section id="contact">
+    <h2>Contacto</h2>
+    <p>Formulario de contacto y enlaces a tus redes sociales.</p>
+</section>
+
+</body>
+</html>
